@@ -1,8 +1,8 @@
 flutter_native_splash:
   web: false
-  color: "#FFFFFF"
-  color_dark: "#FFFFFF"
-  image: "C:/Users/ARAS STORE/Desktop/photo_2023-01-19_10-57-37.png"
-  image_dark: "C:/Users/ARAS STORE/Desktop/dark.png"
-
-
+  color: "#ffffff"
+  color_dark: "#103157"
+  image: "D:/projects/iraq electro/flutter/IraqElectro/android/app/src/main/res/drawable-night/background.png"
+  image_dark: "D:/projects/iraq electro/flutter/IraqElectro/android/app/src/main/res/drawable-night/background.png"
+  branding: "D:/projects/iraq electro/13.png"
+  branding_dark: "D:/projects/iraq electro/14.png"
