@@ -252,7 +252,7 @@ Map<String, dynamic> environment = {
       "icon": "assets/images/country/gb.png",
       "code": "en",
       "text": "English",
-      "storeViewCode": "en"
+      "storeViewCode": ""
     },
     {
       "name": "Arabic",
@@ -266,7 +266,7 @@ Map<String, dynamic> environment = {
       "icon": "assets/images/country/ku.png",
       "code": "ku",
       "text": "Kurdî / کوردی",
-      "storeViewCode": "ku"
+      "storeViewCode": ""
     }
   ],
   "paymentConfig": {
@@ -595,7 +595,6 @@ Map<String, dynamic> environment = {
     "MainColor": "ff11202b",
     "logo": "assets/images/3.png",
     "backgroundColor": "ff11202b",
-    "primaryColorLight": "fff1c405",
     "textColor": "ffe3f2fd"
   },
   "enableOnBoarding": true,
@@ -702,7 +701,6 @@ Map<String, dynamic> environment = {
     "MainColor": "ffffffff",
     "logo": "assets/images/4.png",
     "backgroundColor": "fff7fafb",
-    "primaryColorLight": "fff1c405",
     "textColor": "ff0b141b"
   }
 };
